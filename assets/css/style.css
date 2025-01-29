@@ -1,0 +1,40 @@
+.fotoperfil {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    object-fit: cover;
+    object-position: center; 
+    border: 2px solid black;
+}
+
+.sobremi {
+
+    margin: 0 auto; 
+    padding: 20px;
+    font-family: Arial, sans-serif; 
+    line-height: 1.6; 
+    text-align: justify; 
+}
+
+.sobremititle {
+    text-align: center;
+    font-size: 2em; 
+    margin-bottom: 20px; 
+}
+
+.sobremi p {
+    font-size: 1.1em; 
+    color: #333; 
+    text-indent: 20px; 
+}
+.exptitulo { 
+    text-align: center;
+    padding-bottom: 2%;
+}
+
+.edptitulo {
+    text-align: center;
+padding-top: 2%;
+padding-bottom: 2%;
+
+}
